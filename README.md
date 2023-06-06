@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Passionate software engineer with a background in Energy and Sustainability and a high interest towards software. Fast learner and critical thinker, I thrive tackling complex problems through elegant solutions. Highly purpose-driven individual, looking for meaningful projects with a real impact. Currently enrolled at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning. 🔭
+Passionate software engineer with a background in Energy and Sustainability. Fast learner and critical thinker, I thrive tackling complex problems through elegant solutions. Highly purpose-driven individual, looking for meaningful projects with a real impact. Currently enrolled at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning. 🔭
 
 
 <!-- <h2 align="center"> Tech Stack </h1>
