@@ -46,4 +46,6 @@ Passionate software engineer with a background in Energy and Sustainability. Fas
 <img width="60" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/3bc8b400-e2e8-4a51-aeac-5531b8ad2ec3">
 <!--  fract-ol  -->
 <img width="60" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/2181da54-c5d6-4c56-90cc-03d783210251">
+<!--  philosophers  -->
+<img width="60" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/b049e20c-5c66-4b36-879e-5b96cd2e91e2">
 </p>
