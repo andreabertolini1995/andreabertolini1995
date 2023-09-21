@@ -32,6 +32,7 @@ Passionate software engineer with a background in Energy and Sustainability. Fas
 <img width="40" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/4e02179a-c6ba-482c-a41b-badc662a4856">
 <img width="40" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/e2e689ed-517f-4994-9910-5c0f7a000643">
 <img width="40" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/50f13962-3f82-4410-aa3e-da7e316a3bbc">
+<img width="40" alt="Screenshot 2023-06-01 at 13 25 50" src="https://github.com/andreabertolini1995/andreabertolini1995/assets/51784826/52eb2cc0-e6b4-4d58-ad5d-d514ede24429">
 
 ## 42 Projects 
 <!--  Libft -->
