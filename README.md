@@ -2,21 +2,22 @@
 
 <!--
 **andreabertolini1995/andreabertolini1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 Passionate software engineer with a background in Energy and Sustainability
+- :boom: Currently working as a Backend Developer at [DeliveryHero](https://github.com/deliveryhero)
+- 🔭 Enrolled at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Fast learner and critical thinker, I thrive tackling complex problems through elegant solutions. Highly purpose-driven individual, looking for meaningful projects with a real impact. . 🔭
 -->
-
-Passionate software engineer with a background in Energy and Sustainability. Fast learner and critical thinker, I thrive tackling complex problems through elegant solutions. Highly purpose-driven individual, looking for meaningful projects with a real impact. Currently enrolled at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning. 🔭
-
 
 <!-- <h2 align="center"> Tech Stack </h1>
 <p align="center">
