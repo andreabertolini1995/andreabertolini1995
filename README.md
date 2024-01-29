@@ -1,9 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **andreabertolini1995/andreabertolini1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
+-->
 
 - 🌱 Passionate software engineer with a background in Energy and Sustainability
 - :boom: Currently working as a Backend Developer at [DeliveryHero](https://github.com/deliveryhero)
