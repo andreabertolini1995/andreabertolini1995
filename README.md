@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 ### Andrea Bertolini
 - Passionate software engineer with a background in Energy and Sustainability 🌱 
 - Currently working as a Backend Developer at [DeliveryHero](https://github.com/deliveryhero) :boom: 
-- Enrolled at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning 🔭 
+- Alumni at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning 🔭 
 
 <!--
 - 👯 I’m looking to collaborate on ...
