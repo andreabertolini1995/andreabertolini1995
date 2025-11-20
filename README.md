@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 -->
 ### Andrea Bertolini
-- Passionate software engineer with a background in Energy and Sustainability 🌱 
-- Currently working as a Backend Developer at [Ecosia]([https://github.com/deliveryhero](https://www.ecosia.org/?c=it)) 🌲
+- Passionate software engineer with a background in Energy and Sustainability ☀️
+- Currently working as a Backend Developer at [Ecosia]([https://github.com/deliveryhero](https://www.ecosia.org/?c=it)) 🌳
 - Alumni at [42 Berlin](https://42berlin.de/), a project-oriented software engineering school based on peer-to-peer learning 🔭 
 
 <!--
